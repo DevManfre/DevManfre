@@ -13,5 +13,9 @@
 
 <a href="https://github.com/DevManfre"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DevManfre&langs_count=10&title_color=70a4fc&text_color=ffffff&icon_color=0891b2&bg_color=1b1a27&hide_border=true&locale=en&custom_title=Most%20%Used%20%Languages" alt="Most Used Languages" /></a>
 
+
+## 💰 You can help me by Donating
+[![PayPal](https://img.shields.io/badge/PayPal-00457C?style=for-the-badge&logo=paypal&logoColor=white)](https://paypal.me/AlessioManfedini) 
+
 ---
 [![](https://visitcount.itsvg.in/api?id=DevManfre&label=Profile%20Views&color=6&icon=0&pretty=true)](https://visitcount.itsvg.in)
