@@ -1,17 +1,17 @@
 <h2 align="center">Hi 👋! My name is Alessio and I'm a web developer, from Modena</h2>
 
-###
+### <!-- Github Stats -->
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=devmanfre&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph"  />
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=devmanfre&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
 </div>
 
-###
+### <!-- GIF -->
 
 <img align="right" height="150" src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExbWt3eXd4YjQ5eHM4OHNrbDc4b2g1OHU3YWNpdm90dDF5ZGxyd2N5ZiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/bGgsc5mWoryfgKBx1u/giphy.webp"  />
 
-###
+### <!-- Language List -->
 
 <div align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="30" alt="html5 logo"  />
@@ -37,7 +37,7 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="30" alt="java logo"  />
 </div>
 
-###
+### <!-- Social List -->
 
 <div align="center">
   <a href="https://www.linkedin.com/in/alessio-manfredini-developer/" target="_blank">
@@ -51,12 +51,12 @@
   </a>
 </div>
 
-###
+### <!-- Snake Animation -->
 
 <br clear="both">
 
 <img src="https://raw.githubusercontent.com/devmanfre/devmanfre/output/snake.svg" alt="Snake animation" />
 
-###
+### <!-- Profile Visits Count -->
 
 [![](https://visitcount.itsvg.in/api?id=DevManfre&label=Profile%20Views&color=6&icon=0&pretty=true)](https://visitcount.itsvg.in)
