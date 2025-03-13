@@ -56,7 +56,3 @@
 <br clear="both">
 
 <img src="https://raw.githubusercontent.com/devmanfre/devmanfre/output/snake.svg" alt="Snake animation" />
-
-### <!-- Profile Visits Count -->
-
-[![](https://visitcount.itsvg.in/api?id=DevManfre&label=Profile%20Views&color=6&icon=0&pretty=true)](https://visitcount.itsvg.in)
