@@ -57,3 +57,6 @@
 <br clear="both">
 
 <img src="https://raw.githubusercontent.com/devmanfre/devmanfre/output/snake.svg" alt="Snake animation" />
+
+### <!-- Profile Views Counter -->
+![](https://komarev.com/ghpvc/?username=DevManfre&style=for-the-badge&abbreviated=true)
